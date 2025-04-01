@@ -1,4 +1,4 @@
-# SISTEMA DE CADASTRO EM PHP
+# SISTEMA DE CADASTRO DE CLIENTES EM C#
 Sistema de cadastro simples e elegante de formulário com HTML, CSS e PHP.
 #
 [  ] https://youtu.be/lP-XV2wXXQM?si=6F6iTvXHetq-CsDN
