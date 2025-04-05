@@ -9,7 +9,14 @@ Esse projeto fornecerá uma compreensão sólida do C# no contexto do mundo real
 [ X ] https://www.youtube.com/watch?v=-TVLmQuYkX4&list=PLKkX54_jcM44qN1qkdE1wfkuitOLrnOl2&index=3
 
 #
-[  ] https://www.youtube.com/watch?v=qcOCn9lbW0o&list=PLKkX54_jcM44qN1qkdE1wfkuitOLrnOl2&index=4
+[ X ] https://www.youtube.com/watch?v=qcOCn9lbW0o&list=PLKkX54_jcM44qN1qkdE1wfkuitOLrnOl2&index=4
+
+#
+[ X ] https://www.youtube.com/watch?v=aoarz7O0raQ&list=PLKkX54_jcM44qN1qkdE1wfkuitOLrnOl2&index=5
+
+#
+[ X ] https://www.youtube.com/watch?v=p5Jf8-uT4U0&list=PLKkX54_jcM44qN1qkdE1wfkuitOLrnOl2&index=6
+
 
 
 # Colors:
